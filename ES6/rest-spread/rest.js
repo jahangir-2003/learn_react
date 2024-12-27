@@ -23,7 +23,7 @@ console.log(join(" | ", "one", "two"));
 
 console.log("\n");
 function sum(...values) {
-  // console.log(values);
+  console.log(values);
   return values.map((item) => item * item);
 }
 

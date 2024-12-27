@@ -28,5 +28,4 @@ console.log("\n");
 function showYourWork(num1, num2) {
   return `${num1} + ${num2} = ${num1 + num2}`;
 }
-// returns '3 + 4 = 7'
 console.log(showYourWork(3, 4));

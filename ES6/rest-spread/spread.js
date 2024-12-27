@@ -32,6 +32,8 @@ let newArr = [12, 1213, 2453];
 const newArr1 = [121, 5, 3, 6];
 
 arr1.concat(newArr1);
+console.log("\n");
+
 console.log("without spread", arr1);
 
 const a = [12, 21, 23];

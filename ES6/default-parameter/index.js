@@ -9,4 +9,4 @@ fun("jahangir");
 // You can also assign default values when using destructuring assigment on objects.
 
 const { age = 21, name = "jahangir" } = { name: "vikash" };
-console.log(age, name);
+console.log("default-parameter is name", age, name);

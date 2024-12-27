@@ -6,7 +6,7 @@
 x = 10;
 console.log(x);
 var x;
-
+console.log(x);
 y = 21; //The variable is in a "temporal dead zone" from
 //the start of the block until it is declared:
 

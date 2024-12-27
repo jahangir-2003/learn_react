@@ -1,17 +1,17 @@
-// const sum = (a, b) => {
-//   return a + b;
-// };
-// console.log(sum(1, 5));
+const sum = (a, b) => {
+  return a + b;
+};
+console.log(sum(1, 5));
 
-// let multi = (a, b) => {
-//   return a * b;
-// };
+let multi = (a, b) => {
+  return a * b;
+};
 
-// console.log(multi(12, 65));
+console.log(multi(12, 65));
 
-// const hello = (a) => "Hello World! " + a;
+const hello = (a) => "Hello World! " + a;
 
-// console.log(hello(12));
+console.log(hello(12));
 
 // difference between regular function and Arrow function
 

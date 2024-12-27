@@ -11,7 +11,7 @@ function printer() {
 
 printer();
 console.log(x); // logs 1
-// console.log(z); // throws a ReferenceError it means we can't acces z outside block
+console.log(z); // throws a ReferenceError it means we can't acces z outside block
 
 console.log("\n");
 

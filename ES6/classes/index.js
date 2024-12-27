@@ -31,6 +31,7 @@ myDog.move();
 myDog.sounds();
 
 // using es6 feature
+console.log("\n");
 class car {
   constructor(color = "red") {
     this.color = color;

@@ -4,7 +4,6 @@
 // This syntax provides a concise and readable way to extract
 // data from complex structures.
 
-// Object
 const person = {
   fName: "jahangir",
   lName: "Alam",
